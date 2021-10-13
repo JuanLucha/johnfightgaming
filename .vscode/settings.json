@@ -13,7 +13,6 @@
   "files.watcherExclude": {
     "**/node_modules": true
   },
-  "foam.edit.linkReferenceDefinitions": "withoutExtensions",
   "foam.openDailyNote.directory": "journal",
   "foam.openDailyNote.titleFormat": "fullDate",
   "git.enableSmartCommit": true,
@@ -24,5 +23,5 @@
   "prettier.singleQuote": false,
   "spellright.notificationClass": "warning",
   "vscodeMarkdownNotes.noteCompletionConvention": "noExtension",
-  "vscodeMarkdownNotes.slugifyMethod": "github-slugger",
+  "vscodeMarkdownNotes.slugifyMethod": "github-slugger"
 }

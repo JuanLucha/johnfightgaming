@@ -1,5 +1,5 @@
 export default {
-  "title": "Foamy NextJS",
-  "description": "Digital Garden built with Foam and NextJS with MDX",
-  "author": "Yenly Ma"
-}
+  title: "John Fight Gaming",
+  description: "The site for my gaming alter ego",
+  author: "John Fight",
+};
