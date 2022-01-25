@@ -1,14 +1,3 @@
----
-title: "¿Culpable o inocente? - Intro"
-date: "10-12-2019"
-game: "La Llamada de Cthulhu"
-serie: "¿Culpable o inocente?"
-category: "solo-rpg"
-tags: ["rol en solitario", "la llamada de cthulhu"]
-path: "/culpable-o-inocente-intro"
-order: 1
----
-
 # Investigación en Arkham - Introducción
 
 ## Índice

@@ -1,14 +1,3 @@
----
-title: "Keisuke, the techno-monk"
-date: "15-9-2019"
-game: "Fate RPG"
-serie: "Escape from the Headquarters (english)"
-category: "solo-rpg"
-tags: ["rol en solitario", "cyberpunk", "fate"]
-path: "/keisuke"
-order: 2
----
-
 Keisuke, the Techno-monk
 
 **Fate points** 2

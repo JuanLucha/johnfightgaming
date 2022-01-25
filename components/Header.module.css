@@ -1,6 +1,7 @@
 .header {
   display: flex;
   justify-content: space-between;
+  flex-direction: column;
   margin-top: 30px;
 }
 
@@ -12,4 +13,12 @@
 
 .title a:hover {
   text-decoration: none;
+}
+
+.row {
+  border: 1px;
+  flex: 1;
+  display: flex;
+  justify-content: space-between;
+  margin-top: 15px;
 }

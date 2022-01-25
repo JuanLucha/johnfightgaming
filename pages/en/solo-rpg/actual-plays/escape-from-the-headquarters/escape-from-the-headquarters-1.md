@@ -1,14 +1,3 @@
----
-title: "Escape from the Headquarters - 1"
-date: "10-1-2020"
-game: "Fate RPG"
-serie: "Escape from the Headquarters (english)"
-category: "solo-rpg"
-tags: ["rol en solitario", "cyberpunk", "fate"]
-path: "/escape-from-the-headquarters-1"
-order: 3
----
-
 # Escape from the Headquarters - 1
 
 ```
